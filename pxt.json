@@ -1,0 +1,15 @@
+{
+    "name": "neopixel-effects",
+    "version": "0.0.1",
+    "description": "Super cool effects for AdaFruit NeoPixel",
+    "license": "MIT",
+    "dependencies": {
+        "microbit": "*",
+        "neopixel": "github:Microsoft/pxt-neopixel#v0.0.2"        
+    },
+    "files": [
+        "README.md",
+        "effects.ts"
+    ],
+    "public": true
+}
